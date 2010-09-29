@@ -1,7 +1,7 @@
 
 # KhanKeys
 
-Choosing colors looked so tedious, here's a script to help.
+Choosing colors looks so tedious, here's a script to help.
 
 This script adds color swatch keybindings to SmoothDraw for Salman Khan.
 
