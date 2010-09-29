@@ -1,7 +1,9 @@
 
 # KhanKeys
 
-Adds color swatch keybindings to SmoothDraw for Salman Khan.
+Choosing colors looked so tedious, here's a script to help.
+
+This script adds color swatch keybindings to SmoothDraw for Salman Khan.
 
 Keys 0-9 are mapped to the first 10 colors on the color swatch.
 
