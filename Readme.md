@@ -20,3 +20,8 @@ Keys 0-9 are mapped to the first 10 colors on the color swatch.
 The default bindings are pretty simple to change just by looking at the script.
 
 Cheers!
+
+## Bugs
+
+If you hold down a color key while drawing it will draw lines across your screen. Don't
+do this!
